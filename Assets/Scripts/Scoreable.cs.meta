@@ -1,0 +1,9 @@
+fileFormatVersion: 2
+guid: d75aca4a8f6646b4aaa47ae2825fb5a9
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences:
+  - ScoreMessage: {fileID: 100000, guid: 4c7979cb7ca4037428f26c09fc0ea523, type: 2}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
